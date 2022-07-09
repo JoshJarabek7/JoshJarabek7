@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **finding my first role as a back-end engineer!**
 
-- 🌱 I’m currently learning **AWS, Django, Scikit-learn, NumPy**
+- 🌱 I’m currently learning **Swift and iOS Development**
 
 - 📫 How to reach me **swe.joshjarabek@gmail.com**
 
