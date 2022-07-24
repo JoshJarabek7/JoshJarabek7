@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshjarabek7&label=Profile%20views&color=0e75b6&style=flat" alt="joshjarabek7" /> </p>
 
-- 🔭 I’m currently working on **finding my first role as a back-end engineer!**
+- 🔭 I’m currently working on **finding my first role as a Back End engineer!**
 
-- 🌱 I’m currently learning **Swift and iOS Development**
+- 🌱 I’m currently learning **Front End Development** to obtain skills throughout the entire stack!
 
 - 📫 How to reach me **swe.joshjarabek@gmail.com**
 
