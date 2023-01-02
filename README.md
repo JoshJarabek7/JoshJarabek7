@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **swe.joshjarabek@gmail.com**
 
+- My repos and projects I'm most proud of are "Delivery Truck Routing", "Appointment Scheduler", and "Heart Disease Prediction Application".
+
 <h3 align="left">Connect with me on LinkedIn!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joshjarabek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshjarabek" height="30" width="40" /></a>
